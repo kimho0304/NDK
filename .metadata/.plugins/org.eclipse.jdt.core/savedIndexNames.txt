@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/user/AndroidStudioProjects/helloNDK/.metadata/.plugins/org.eclipse.jdt.core
